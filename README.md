@@ -3,4 +3,5 @@ An Omeka plugin that adds a new element set for storing ... whatever. May be use
 
 # Usage
 Access Miscellaneous data in the usual way: 
+
 `<?php echo metadata('item',array('Miscellaneous','Miscellaneous'));?>`
